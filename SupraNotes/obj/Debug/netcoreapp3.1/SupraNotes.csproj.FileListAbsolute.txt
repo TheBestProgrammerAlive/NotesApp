@@ -5,7 +5,6 @@ C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\bin\
 C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\bin\Debug\netcoreapp3.1\SupraNotes.dll
 C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\bin\Debug\netcoreapp3.1\SupraNotes.pdb
 C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.csprojAssemblyReference.cache
-C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.Form1.resources
 C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.csproj.GenerateResource.cache
 C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.AssemblyInfoInputs.cache
 C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.AssemblyInfo.cs
@@ -13,3 +12,6 @@ C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\
 C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.dll
 C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.pdb
 C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.genruntimeconfig.cache
+C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.LoginForm.resources
+C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.MainWindowForm.resources
+C:\Users\Zordon5000\source\repos\TheBestProgrammerAlive\NotesApp\SupraNotes\obj\Debug\netcoreapp3.1\SupraNotes.Properties.Resources.resources
